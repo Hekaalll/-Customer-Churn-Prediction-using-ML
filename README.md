@@ -33,8 +33,12 @@ Whether you're a **data scientist**, a **business analyst**, or a **machine lear
 ## 📁 Repository Structure
 ```bash
 |-- data/                  # Raw and processed data files  
+|   |-- WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
 |-- notebooks/             # Jupyter notebooks for analysis and modeling  
+|   |-- Customer Churn Prediction.ipynb  # Main notebook
 |-- models/                # Saved machine learning models  
+|   |-- coustomer_churn_model.pkl  # Trained model
+|   |-- encoders.pkl  # Encoders used for categorical features
 |-- results/               # Reports, visualizations, and evaluation metrics  
 |-- README.md              # Project documentation
 ```
