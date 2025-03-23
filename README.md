@@ -36,8 +36,8 @@ Whether you're a **data scientist**, a **business analyst**, or a **machine lear
 |-- notebooks/             # Jupyter notebooks for analysis and modeling  
 |-- models/                # Saved machine learning models  
 |-- results/               # Reports, visualizations, and evaluation metrics  
-|-- README.md              # Project documentation  
-
+|-- README.md              # Project documentation
+```
 ## 📊 Results & Insights
 - Developed **high-accuracy churn prediction models**.
 - Identified **key churn drivers** using feature importance analysis.
